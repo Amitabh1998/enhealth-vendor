@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.remote-video {
+  width: 100%;
+  height: 100%;
+  /* width: 20vw;
+  max-width: 312px;
+  min-width: 0;
+  aspect-ratio: 1.33; */
+}
